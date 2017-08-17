@@ -1,7 +1,7 @@
 {
   "name": "youtubify",
   "main": "./lib/youtubify",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A youtube audio only player, you can search and play any youtube video with controls in the status bar and no annoying popup or pageswitch",
   "keywords": [],
   "activationCommands": {
